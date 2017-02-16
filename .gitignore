@@ -1,0 +1,10 @@
+node_modules
+jspm_packages
+npm-debug.log
+debug.log
+app/dist/**/*.js
+!app/systemjs.config.js
+*.js.map
+.DS_Store
+_test-output
+_temp
